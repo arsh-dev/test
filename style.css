@@ -32,8 +32,8 @@ svg{
 	width: 100%;
 }
 .form-box{
-	width: 75%;
-	height: 450px;
+	width: 72%;
+	height: 470px;
 	position: relative;
 	top: 100px;
 	left: 12%;
@@ -102,13 +102,13 @@ svg{
 	font-size: 14px;
 }
 #frm1{
-	margin-left: 50px;
+	margin-left: 70px;
 	line-height: 30px;
 }
 #frm2{
 	position: absolute;
-	top: 44%;
-	right: 100px;
+	top: 44.5%;
+	right: 130px;
 	line-height: 30px;
 }
 #star{
@@ -134,7 +134,7 @@ svg{
 form button{
 	position: absolute;
 	right: 5px;
-	bottom: -50px;
+	bottom: -60px;
 	height: 35px;
 	width: 150px;
 	background-image: linear-gradient(to right, #5c9dff, #806fd9);
