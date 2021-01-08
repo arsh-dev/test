@@ -1,0 +1,147 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+#mainh1{
+	position: absolute;
+	top: 1.5%;
+	left: 35vw;
+	color: white;
+}
+svg{
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+}
+#mainh2{
+	position: absolute;
+	top: 2.5%;
+	right: 190px;
+	color: white;
+}
+#mainimg{
+	box-shadow: 5px 10px #fff;
+	width: 7%;
+	position: absolute;
+	top: 1%;
+	left: 14%;
+}
+.hero{
+	height: 100%;
+	width: 100%;
+}
+.form-box{
+	width: 75%;
+	height: 70vh;
+	position: relative;
+	top: 100px;
+	left: 12%;
+	border-radius: 15px;
+	background-color: white;
+	box-shadow: 5px 5px 5px 5px rgba(217, 217, 217, 0.5);
+}
+.fa-stack-1x{
+	border-radius: 50%;
+	background-color: white;
+	color: #5c9dff;
+	padding: 3px;
+	padding-left: 5px;
+	margin-right: 10px;
+	width: 10px;
+}
+.fa-stack-1x_2{
+	border-radius: 50%;
+	background-color: white;
+	color: white;
+	padding: 3px;
+	padding-left: 5px;
+	margin-right: 10px;
+	background-color: #9c9c9c;
+}
+
+.btn1{
+	width: 33%;
+	height: 50px;
+	border-radius: 50px 100px 100px 0;
+	border: none;
+	color: white;
+	background-image: linear-gradient(to right, lightblue , #5c9dff);
+
+}
+.btn2{
+	width: 33%;
+	margin-right: -5px;
+	border: none;
+	margin-left: -2px;
+	background-color: #edeef0;
+	color: grey;
+}
+.btn3{
+	width: 33%;
+	border: none;
+	background-color: #edeef0;
+	color: grey;	
+
+}
+.btn_area{
+	background-color: #edeef0;
+	height: 50px;
+	border-radius: 10px;
+}
+#h4center{
+	line-height: 25px;
+}
+#h1center{
+	margin: -15px;
+}
+.form_main{
+	margin-left: 50px;
+	margin-right: 50px;
+	display: inline-block;
+	font-size: 14px;
+}
+#frm1{
+	margin-left: 50px;
+	line-height: 30px;
+}
+#frm2{
+	position: absolute;
+	top: 44%;
+	right: 100px;
+	line-height: 30px;
+}
+#star{
+	color: #5c9dff;
+	font-size: 15px;
+}
+.form_main input{
+	width: 25vw;
+	padding: 12px 20px;
+	margin: 4px 0;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+#back{
+	position: absolute;
+	left: 5px;
+	bottom: -50px;
+	text-decoration: none;
+	color: #5c9dff;
+	font-weight: bold;
+}
+form button{
+	position: absolute;
+	right: 5px;
+	bottom: -50px;
+	height: 35px;
+	width: 150px;
+	background-image: linear-gradient(to right, #5c9dff, #806fd9);
+	border: none;
+	color: white;
+	border-radius: 5px;
+}
+#ii{
+	size: 20px;
+}
